@@ -1,2 +1,2 @@
-# Offline-stores-sales-data-_Dashboard
+# Offline-stores-sales_Dashboard
 Power bi Dashboard
